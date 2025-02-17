@@ -23,6 +23,10 @@ namespace mvcStart.Controllers
             return View();
         }
 
+        public IActionResult contactUs()
+        {
+            return View();
+        }
 
 
         public IActionResult Privacy()
